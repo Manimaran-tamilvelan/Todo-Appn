@@ -1,0 +1,96 @@
+#field {
+	padding-top: 5%;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+#todolist {
+	padding-top: 10px;
+	margin: auto;
+	padding-left: 35%;
+}
+
+.list {
+	color: black;
+	list-style-type: none;
+	font-family: 'Kumbh Sans', sans-serif;
+	font-size: 23px;
+}
+
+#button {
+	width: 100px;
+	height: 30px;
+	border-radius: 5px;
+	outline: none;
+	border: 2px black;
+}
+
+#newTask {
+	text-align: center;
+	width: 50%;
+	height: 30px;
+	border-radius: 5px;
+	outline: none;
+	box-shadow: 3px 3px #442C2E;
+}
+
+#newTask:focus {
+	text-align: center;
+	width: 50%;
+	height: 30px;
+	outline: none;
+	box-shadow: 3px 3px #442C2E;
+}
+
+#loginfield {
+	text-align: center;
+	border: 2px solid white;
+	border-radius: 25px 10px;
+	box-shadow: 0px 0px 5px 2px #ebebeb;
+	padding: 17.5px 0px;
+}
+
+.credentials {
+	border-radius: 3px;
+	width: 200px;
+	height: 20px;
+	border: 1px solid;
+}
+
+.credentials:focus {
+	border-radius: 3px;
+	width: 200px;
+	height: 20px;
+	border: 1px solid #858383;
+	outline: none;
+	box-shadow: 0px 0px 2px 1px #FEDBD0;
+}
+
+#login {
+	border: 1px solid #858383;
+	border-radius: 5px;
+	height: 25px;
+	width: 100px;
+	background-color: #FEDBD0;
+}
+
+#login:focus {
+	border: 1px solid black;
+	outline: none;
+	border-radius: 5px;
+	height: 25px;
+	width: 100px;
+}
+
+
+#loginfield1css {
+	text-align: center;
+    border: 2px solid white;
+    border-radius: 25px 10px;
+    box-shadow: 0px 0px 5px 2px #ebebeb;
+    padding: 24px 0px;
+    margin: 0px;
+}
+
+
